@@ -24,6 +24,7 @@ public class ASIX1 {
         
         System.out.println("El resulado es: " + resultado);
         
+        n1 = 8;
     }
     
-}
+} 
